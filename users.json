@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "user_id": "8917302856",
+      "username": "Ko",
+      "plan": null,
+      "expires_at": null,
+      "is_admin": 0
+    }
+  ],
+  "keys": [],
+  "updated": "2026-10-14T03:48:17.317021+00:00"
+}
